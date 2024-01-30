@@ -1,8 +1,8 @@
-# Machine Learning-Approach for Predicting Gene Disease Association
+# Machine Learning Approach for Predicting Gene Disease Association
 
 ## Overview
 
-In this research project, the primary objective is to uncover the intricate relationship between a specific gene and a corresponding disease through the application of advanced machine learning algorithms. The methodology employed involves the utilization of publicly available dataset to facilitate a comprehensive analysis.
+In this research project, the primary objective is to uncover the intricate relationship between a specific gene and a corresponding disease through the application of advanced machine-learning algorithms. The methodology employed involves the utilization of publicly available dataset to facilitate a comprehensive analysis.
 
 ## Project Scope
 
